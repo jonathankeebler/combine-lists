@@ -1,5 +1,5 @@
 {
-  "name": "combine-lists",
+  "name": "@compassdigital/combine-lists",
   "version": "1.0.1",
   "description": "Merge two lists, trying to preserve the order of both ",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sjelin/combine-lists.git"
+    "url": "git+https://github.com/jonathankeebler/combine-lists.git"
   },
   "keywords": [
     "utility",
@@ -22,9 +22,9 @@
   "author": "sjelin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sjelin/combine-lists/issues"
+    "url": "https://github.com/jonathankeebler/combine-lists/issues"
   },
-  "homepage": "https://github.com/sjelin/combine-lists#readme",
+  "homepage": "https://github.com/jonathankeebler/combine-lists#readme",
   "dependencies": {
     "lodash": "^4.17.10",
     "object-hash": "^1.1.8"
