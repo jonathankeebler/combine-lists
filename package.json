@@ -1,6 +1,6 @@
 {
   "name": "@compassdigital/combine-lists",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Merge two lists, trying to preserve the order of both ",
   "main": "index.js",
   "scripts": {
